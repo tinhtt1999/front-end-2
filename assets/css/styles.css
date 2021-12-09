@@ -98,8 +98,8 @@ body
 .header-btnmenu .btn-close
 {
     position: absolute;
-    top: 25%;
-    right: 20%;
+    top: 15%;
+    right: 15%;
     background: #fff;
     display: flex;
     align-items: center;
